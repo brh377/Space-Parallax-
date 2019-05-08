@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.spaceparallax.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Space Parallax\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Space Parallax [Testing]"
+        }
+      }
+    }
+  ]
+}

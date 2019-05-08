@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SCENES 1/Ship.unity
+  isLoaded: 1
+  isActive: 1

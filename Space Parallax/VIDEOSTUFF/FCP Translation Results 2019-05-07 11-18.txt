@@ -1,0 +1,18 @@
+Translation issue:
+Effect <MPEG Source Settings> on Clip <Unity 2018.3.11f1 Education - Credits.unity - Space Parallax - PC, Mac &amp; Linux Standalone _DX11_ 5_6_2019 6_37_11 PM.mp4> not translated.
+Translation issue:
+Effect <MPEG Source Settings> on Clip <Unity 2018.3.11f1 Education - Scene 3.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 3_41_42 PM.mp4> not translated.
+Translation issue:
+Effect <MPEG Source Settings> on Clip <Unity 2018.3.11f1 Education - Second Floor.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 2_52_20 PM.mp4> not translated.
+Translation issue:
+Effect <MPEG Source Settings> on Clip <Unity 2018.3.11f1 Education - Ship.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 4_46_01 PM.mp4> not translated.
+Translation issue:
+	Sequence <Unity 2018.3.11f1 Education - Ship.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 4_46_01 PM> at , audio track 1: Effect <Internal Channel Volume Stereo> on Clip <Unity 2018.3.11f1 Education - Scene 3.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 3_41_42 PM.mp4> not translated.
+Translation issue:
+	Sequence <Unity 2018.3.11f1 Education - Ship.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 4_46_01 PM> at , audio track 1: Effect <Internal Channel Volume Stereo> on Clip <Unity 2018.3.11f1 Education - Second Floor.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 2_52_20 PM.mp4> not translated.
+Translation issue:
+	Sequence <Unity 2018.3.11f1 Education - Ship.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 4_46_01 PM> at , audio track 1: Effect <Internal Channel Volume Stereo> on Clip <Unity 2018.3.11f1 Education - Ship.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 4_46_01 PM.mp4> not translated.
+Translation issue:
+	Sequence <Unity 2018.3.11f1 Education - Ship.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 4_46_01 PM> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <Space Cadet - Metro Boomin (Slowed+Reverb) [Instrumental].mp3> not translated.
+Translation issue:
+	Sequence <Unity 2018.3.11f1 Education - Ship.unity - Space Parallax - PC, Mac &amp; Linux Standalone_ _DX11_ 5_1_2019 4_46_01 PM> at , audio track 3: Effect <Internal Channel Volume Stereo> on Clip <mac demarco - chamber of reflection (slowed + reverb).mp3> not translated.
