@@ -30,3 +30,8 @@ There will be destroyable objects and robot enemies throughout the levels. Move 
 We do not have an Exit button or a way to pull up the menu, so to exit the game and start a new level you will have to close the Space Parallax application and reopen it. 
 Keep in mind that this is not the longest gameplay experience, so enjoy the environment and explore all of the corners of each map. This took a long time to build and many people going too fast will not see all of the content each map has to offer. 
 
+![sixth](https://user-images.githubusercontent.com/49410930/107597391-81406d80-6be8-11eb-948f-a31d20c7cfd7.png)
+
+![third](https://user-images.githubusercontent.com/49410930/107597404-8a313f00-6be8-11eb-99cb-54ccd9864685.png)
+
+![second](https://user-images.githubusercontent.com/49410930/107597425-97e6c480-6be8-11eb-8ae0-e4f83ea13947.png)
